@@ -35,3 +35,4 @@ $ mvn archetype:generate \
   -DartifactId=maigolab_hello
 ```
 ## Testiing
+jenkins 
