@@ -34,5 +34,5 @@ $ mvn archetype:generate \
   -DgroupId=info.maigo.lab.hello \
   -DartifactId=maigolab_hello
 ```
-## Testiing
+## Testing
 jenkins 
